@@ -1,0 +1,6 @@
+*** SutTax ***
+
+2023-02-28 - version 1.0.0
+* Initial release
+* Add basic function of Sales Tax Auto Calculation
+* Add Admin configurations.
